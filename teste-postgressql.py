@@ -4,7 +4,7 @@ from psycopg2 import Error
 
 try:
     connection = psycopg2.connect(user="postgres",
-                                  password="Postgres2018!",
+                                  password="Postgres2021!",
                                   host="127.0.0.1",
                                   port="5432",
                                   database="postgres")
